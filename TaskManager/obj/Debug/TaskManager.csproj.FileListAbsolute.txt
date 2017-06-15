@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+c:\users\david\documents\visual studio 2017\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Form2.resources
